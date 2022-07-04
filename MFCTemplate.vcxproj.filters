@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCTemplate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCTemplateDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCTemplateView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgImgInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgImgLight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PointTrans.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgHistogram.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DaoV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgLinerPara.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Template.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Vchange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LChange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DaoL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Smooth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgErosion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="yuzhi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chuangkou.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Lashen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIBAPI.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Revolve.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Lvjing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="yinxie.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="use.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="useres.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Coursedesign.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="canny.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCTemplate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCTemplateDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCTemplateView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgImgInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgImgLight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgHistogram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DaoV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgLinerPara.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Vchange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LChange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DaoL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Smooth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgErosion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="yuzhi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chuangkou.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Lashen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIBAPI.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Revolve.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Lvjing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="yinxie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="use.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="useres.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Coursedesign.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="canny.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCTemplate.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCTemplate.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCTemplateDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MFCTemplate.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
